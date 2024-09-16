@@ -1,32 +1,37 @@
 ![Logo](https://raw.githubusercontent.com/allegrojacc/Risk-of-Rain-2-PL/main/ryzyko-deszczu.png)
 
+# Risk of Rain 2 – Spolszczenie
 
-## Poradniki Instlacji
+## Poradniki instalacji
 
-### [Tutorial Video](https://youtu.be/kW7Dgq1DKwQ)
+### [Film instruktażowy](https://youtu.be/kW7Dgq1DKwQ)
 
-### Tutorial taki o:
+### Instrukcja instalacji:
 
-1. Pobierz i zainstaluj [r2modman](https://thunderstore.io/package/ebkr/r2modman/)
-2. Z listy gier wybierz Risk Of Rain 2 i platforme na której posiadasz gre
-3. Utwórz profil
-4. Pobierz Spolszczenie za pomocą przycisku Install with Mod Manager
-5. W r2modman przechodzisz do Ustawień i wybierasz Browse profile folder
-6. Następnie otwierasz kolejno BepInEx > plugins > xykle-JaggyFontFix
-7. Do folderu xykle-JaggyFontFix wklejasz wybrany przez siebie font z polskimi znakami
-8. Przechodzisz do r2modman i otwierasz zakładke Config Editor
-9. Dodatkowe info: Za pierwszym razem musisz odpalić gierke żeby te configi sie wygenerwowały (po wyłączeniu czasami trzeba przejść do innej zakładki i wrócić)
-10. W okienku Font Name wpisujesz Custom a w okienku Custom Font File Name wpisujesz dokładną nazwe pliku czczionki razem z rozszerzeniem
-11. W prawym rogu klikasz Save
-12. W lewym górnym rogu klikasz start modded, miłej gry!
+1. **Pobierz i zainstaluj [r2modman](https://thunderstore.io/package/ebkr/r2modman/).**
+2. Po uruchomieniu r2modman wybierz z listy gier **Risk of Rain 2** oraz platformę, na której posiadasz grę.
+3. **Utwórz nowy profil** w r2modman.
+4. Pobierz spolszczenie, klikając przycisk **Install with Mod Manager**.
+5. W r2modman przejdź do zakładki **Ustawienia** i wybierz opcję **Browse profile folder**.
+6. Otwórz kolejno foldery: **BepInEx > plugins > xykle-JaggyFontFix**.
+7. W folderze **xykle-JaggyFontFix** umieść wybrany przez siebie font obsługujący polskie znaki.
+8. W r2modman otwórz zakładkę **Config Editor**.
+9. **Dodatkowe informacje:** Za pierwszym razem uruchom grę, aby wygenerować pliki konfiguracyjne.
+10. W polu **Font Name** wpisz **Custom**, a w polu **Custom Font File Name** podaj dokładną nazwę pliku czcionki, wraz z rozszerzeniem.
+11. Kliknij **Save** w prawym górnym rogu.
+12. W lewym górnym rogu kliknij **Start modded**, aby uruchomić grę z modami.
 
-## Font
+Miłej gry!
 
-[Font wybierz Tutaj](https://fonts.google.com/?lang=pl_Latn)
+## Wybór czcionki
 
-## Chcesz pomóc?:
-[Dołącz do tłumaczenia na gitlocalize](https://gitlocalize.com/repo/9490/).
+Czcionkę z polskimi znakami możesz wybrać [tutaj](https://fonts.google.com/?lang=pl_Latn).
+
+## Chcesz pomóc?
+
+Jeżeli chcesz pomóc w tłumaczeniu, dołącz do projektu na [GitLocalize](https://gitlocalize.com/repo/9490/).
 
 ## Kontakt
-* Discord: @allegrojacc
-* Email: kontakt@allegrojacc.online
+
+* Discord: **@allegrojacc**
+* Email: **kontakt@allegrojacc.online**

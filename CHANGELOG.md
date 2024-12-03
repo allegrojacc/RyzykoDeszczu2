@@ -8,3 +8,7 @@
 - Szef Kuchni
 - Creditsy
 - Skrzynki
+## 0.8.5
+Żyje, spokojnie :P 
+- małe fixy
+- kilka itemow
